@@ -1,9 +1,14 @@
-api_keys.py
+src/api_keys.py
 venv/
 data/images/
-data/lsoa_boundaries.geojson
-data/imd_2019.numbers
+data/aerial_images/
 __pycache__/
+**/__pycache__/
 .DS_Store
+**/.DS_Store
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
 .vscode/
+*.numbers
+data/clusters/
+anaconda_projects/
